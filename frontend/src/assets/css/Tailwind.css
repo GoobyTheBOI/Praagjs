@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+
+.container {
+    @apply .px-2 mx-auto;
+}
+
+@tailwind utilities;

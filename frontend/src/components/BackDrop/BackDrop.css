@@ -1,0 +1,9 @@
+.close {
+    transform: translateX(-100%);
+    transition: ease-in-out .2s;
+    background-color: rgba(93, 109, 126, .4);
+}
+.open {
+    transform: translateX(0%);
+    transition: ease-in-out .2s;
+}
